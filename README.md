@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This repo was a part of a live-demonstration during Lambda School Support hours that I led.
+
 ## Available Scripts
 
 In the project directory, you can run:
